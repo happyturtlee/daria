@@ -8,6 +8,5 @@ public class sel {
         WebDriver driver = new ChromeDriver();
         driver.get("http://www.google.com");
         driver.quit();
-//    driver.navigate().to("http://sqa.stackexchange.com");
     }
 }
