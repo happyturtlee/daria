@@ -8,5 +8,7 @@ public class Driver {
         WebDriver driver = new ChromeDriver();
         driver.get("http://www.google.com");
         driver.quit();
+        System.out.println("1 + 2 = " + 1 + 2);
+        //String
     }
 }
